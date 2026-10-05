@@ -1,0 +1,19 @@
+Ejercicios 20261001
+Carlos Daniel Estrada Vega - 20853
+MODELACIÓN Y SIMULACIÓN - SECCIÓN 20
+
+Contenido:
+- output/pdf/Ejercicios 20261001.pdf: informe completo de 10 páginas.
+- ejercicios_20261001.py: implementación directa de Euler y RK4.
+- requirements.txt: dependencia de gráficas.
+- output/resultados/: tablas CSV, gráficas PNG y resultados JSON.
+
+Ejecución (Python 3):
+python -m pip install -r requirements.txt
+python ejercicios_20261001.py
+
+Los resultados se regeneran en output/resultados/.
+No se utilizan solucionadores automáticos de ecuaciones diferenciales.
+
+Repositorio de GitHub:
+https://github.com/DannyEst6109/Ejercicios-20261001---Modelacion-y-Simulacion
